@@ -30,4 +30,4 @@ If the user doesn't type a movie in, the program will output data for the movie 
 
 Example on CLI: 
 
-[liri](/images/sample.png)
+![liri](/images/sample.png)
